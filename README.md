@@ -14,7 +14,7 @@ A work day planner application.
 https://hameed1239.github.io/work-day-scheduler/
 
 
-![Website Screenshot](./assets/images/capture.png)
+![Website Screenshot](./assets/images/Capture.png)
 Format: ![Alt Text] (url)
 ## Contribution
 Made by Hameed Kazeem
