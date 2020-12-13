@@ -15,7 +15,7 @@ https://hameed1239.github.io/work-day-scheduler/
 
 
 ![Website Screenshot](./assets/images/Capture.PNG)
-Format: ![Alt Text] (url)
+
 ## Contribution
 Made by Hameed Kazeem
 
